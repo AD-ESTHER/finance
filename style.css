@@ -1,0 +1,30 @@
+body{
+    background-image: url(./67235.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#btn{
+    border-radius: 20px;
+    background-color: #fff;
+    color:darkorchid;
+
+}
+#main{
+    background-color: darkorchid;
+    color: #fff;
+    border-radius: 20px;
+    border-color: #000
+    
+    
+    
+}
+#skip{
+    text-decoration: none;
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+    font-size: small;
+
+}
